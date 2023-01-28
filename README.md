@@ -1,8 +1,7 @@
 ### Hi there, i'm Jhonatan 👋
 
-- 🔭 I’m currently working on web layout
-- 🌱 I’m currently learning JavaScript and React
+- 🔭 I am currently working on web development
+- 🌱 Growing React and Backend technologies
 - 💬 Ask me about web development
 - 📫 How to reach me: @jveinti2 on instagram
-- ⚡ I like development and video games
-
+- ⚡ I like learning and video games!
