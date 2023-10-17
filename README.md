@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Javascript/Angular<br>🤝I am looking for help to continue growing in Angular<br>🌱 I’m currently learning Backend<br>💬 Ask me about Frontend<br>☕ Did you drink coffee already?
+🔭 I’m currently working on React/Angular/Node js/Laravel<br>🤝I am looking for help to continue growing in Angular<br>🌱 I’m currently learning Backend<br>💬 Ask me about Frontend<br>☕ Did you drink coffee already?
 
 
 ## 🌐 Socials:
