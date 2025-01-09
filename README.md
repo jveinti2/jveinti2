@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on PYTHON, AWS and Javascript<br>🤝I am looking for help to continue growing in Cloud<br>🌱 I’m currently learning LLMS<br>💬 Ask me about Fullstack<br>☕ Did you drink coffee already?
+🔭 I’m currently working on Python, AWS and JavaScript<br>🤝I am looking for help to continue growing in Cloud<br>🌱 I’m currently learning LLMS<br>💬 Ask me about Fullstack<br>☕ Did you drink coffee already?
 
 
 ## 🌐 Socials:
